@@ -22,7 +22,3 @@ A small zoo of shell tools for AI-coding workflows. One script per tool, symlink
 | **wren** | Two-line Dracula statusline (tokens, cache hit rate, compaction count, context usage) installed into both Claude Code and pi. |
 
 ![wren statusline](https://raw.githubusercontent.com/Spoon94/cli-zoo/main/docs/wren-preview.svg)
-
----
-
-<sub>Most of my work lives in private repos — the two above are the public ones.</sub>
