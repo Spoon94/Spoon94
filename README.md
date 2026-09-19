@@ -1,5 +1,7 @@
 # Spoon
 
+**AI Navigator** · currently learning AI harness engineering
+
 I build tooling for **AI coding agents** — skill collections, CLI utilities, and knowledge systems that make day-to-day work with agents faster.
 
 ---
@@ -20,12 +22,6 @@ A small zoo of shell tools for AI-coding workflows. One script per tool, symlink
 | **wren** | Two-line Dracula statusline (tokens, cache hit rate, compaction count, context usage) installed into both Claude Code and pi. |
 
 ![wren statusline](https://raw.githubusercontent.com/Spoon94/cli-zoo/main/docs/wren-preview.svg)
-
----
-
-## Toolbox
-
-`Shell` · `Python` · `JavaScript` · `Claude Code` · `tmux` · `Obsidian`
 
 ---
 
