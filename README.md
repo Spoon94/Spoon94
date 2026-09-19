@@ -1,6 +1,6 @@
 # Spoon
 
-**AI Navigator** · learning AI, specializing in harness engineering
+**AI Navigator** · learning AI, specializing in **AI Harness**
 
 I build tooling for **AI coding agents** — skill collections, CLI utilities, and knowledge systems that make day-to-day work with agents faster.
 
