@@ -16,3 +16,5 @@ A small zoo of shell tools for AI-coding workflows, symlink-installed to `$PREFI
 
 - **otter** — tmux session with your AI CLI, yazi, nvim and lazygit in one layout
 - **wren** — two-line Dracula statusline for Claude Code, pi, Qoder CLI and opencode
+
+![wren statusline](https://raw.githubusercontent.com/Spoon94/cli-zoo/main/docs/wren-preview.svg)
